@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/rexsimiloluwah/hello-alx-cdo-4-demo/tree/main.svg?style=svg)](https://circleci.com/gh/rexsimiloluwah/hello-alx-cdo-4-demo/tree/main)
