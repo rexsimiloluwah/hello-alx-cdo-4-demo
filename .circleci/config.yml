@@ -34,4 +34,5 @@ jobs:
 
 workflows: 
     default: 
-        - build-and-test
+        jobs:
+            - build-and-test
